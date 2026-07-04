@@ -1,5 +1,5 @@
 Class {
-	#name : 'RPSTool',
+	#name : 'RockPaperScissors',
 	#superclass : 'Object',
 	#category : 'RockPaperScissors-RockPaperScissors',
 	#package : 'RockPaperScissors',
