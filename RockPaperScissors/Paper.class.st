@@ -18,7 +18,19 @@ Paper >> playAgainstATool: aTool [
 ]
 
 { #category : 'as yet unclassified' }
+Paper >> playAgainstPaper: aPaper [
+
+	^ aPaper 
+]
+
+{ #category : 'as yet unclassified' }
 Paper >> playAgainstRock: aRock [
 
 	^ self
+]
+
+{ #category : 'as yet unclassified' }
+Paper >> playAgainstScissors: aScissors [
+
+	^ aScissors 
 ]
